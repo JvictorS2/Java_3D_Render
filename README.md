@@ -3,4 +3,9 @@
 - Rotaion XZ and YZ
 - Colors
 
-### Java 16
+# Tecnology
+- Java 16 (SDK)
+- Intellij (IDE)
+
+# Building & Run
+Once you create and clone the repository, remove the 'out' repository and on Intellij choose your Sdk and run the aplication.
